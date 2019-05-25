@@ -18,7 +18,7 @@ public class GameControllers : MonoBehaviour
     public Text textout;
     public Text textin;
     public Text textScore;
-    public Text Textend;
+
 
     public GameObject StartCanvas;
     public InputField getname;

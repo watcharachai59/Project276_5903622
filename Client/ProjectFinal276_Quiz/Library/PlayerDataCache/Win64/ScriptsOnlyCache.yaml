@@ -110,7 +110,7 @@ ScriptsOnlyBuild:
     className: TMP_Dropdown
   - hash:
       serializedVersion: 2
-      Hash: f13978ec570381b1e06df4e449fc4bbd
+      Hash: d5f1080a2839cd71a164fdcc950cafaf
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameControllers
@@ -753,4 +753,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scene/Play.unity
-  playerPath: C:/Users/CORSAIR/Desktop/6969123/New Unity Project.exe
+  playerPath: C:/Users/CORSAIR/Desktop/BuildOnline/New Unity Project.exe

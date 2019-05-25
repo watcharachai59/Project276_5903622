@@ -25,6 +25,7 @@ public class NetworkManager : MonoBehaviour
 
     void Awake()
     {
+        panelbungbtnstart.SetActive(false);
         if (instance == null)
             instance = this;
         else if (instance != this)
